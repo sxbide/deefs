@@ -10,6 +10,11 @@
         "website": "McUtils.com",
         "about": "Minecraft Utilities for developer, builders and players",
         "link": "https://mcutils.com/"
+      },
+        {
+        "website": "dummy.com",
+        "about": "dummy website just for testing 123",
+        "link": "https://dummy.com/"
       }
     ]
   }
