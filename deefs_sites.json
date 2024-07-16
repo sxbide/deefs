@@ -1,0 +1,16 @@
+{
+    "headers": ["Website", "About"],
+    "rows": [
+      {
+        "website": "It-Tools.tech",
+        "about": "Handy tools for developers",
+        "link": "https://it-tools.tech"
+      },
+      {
+        "website": "McUtils.com",
+        "about": "Minecraft Utilities for developer, builders and players",
+        "link": "https://mcutils.com/"
+      }
+    ]
+  }
+  
