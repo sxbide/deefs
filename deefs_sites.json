@@ -20,6 +20,11 @@
         "website": "Terminator.aeza.net",
         "about": "Free and fast virtual machine. Perfect to execute any program",
         "link": "https://terminator.aeza.net/en/"
+       },
+       {
+        "website": "Scrollbar.app",
+        "about": "Create an easy scrollbar for your web frontend",
+        "link": "https://scrollbar.app/"
        }
     ]
   }
