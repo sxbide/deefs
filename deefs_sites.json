@@ -25,6 +25,11 @@
         "website": "Scrollbar.app",
         "about": "Create an easy scrollbar for your web frontend",
         "link": "https://scrollbar.app/"
+       },
+       {
+        "website": "digga.dev",
+        "about": "Simple DNS Lookup, WHOIS, SSL History, and More",
+        "link": "https://digga.dev/"
        }
     ]
   }
